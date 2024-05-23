@@ -1,4 +1,3 @@
-import { StarRating } from "components/StarRating/StarRating"
 import { Wrapper } from "components/StarRating/Styled";
 import { FaStar, FaStarHalfAlt } from 'react-icons/fa';
 export const Card = ({rating}) => {
